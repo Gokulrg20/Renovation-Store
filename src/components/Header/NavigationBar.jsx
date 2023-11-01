@@ -73,7 +73,7 @@ function NavigationBar() {
         <li className="nav-item"><Link to="/shop">Products</Link></li>
         <li className="nav-item"><Link to="Contactt">Contact</Link></li>
         <li className="nav-item"><Link to="/LoginPage">LogIN</Link></li>
-        <li className="nav-item"><Link to="PatientProfile">Profile</Link></li>
+    {/*<li className="nav-item"><Link to="PatientProfile">Profile</Link></li> */}
         {/* <li className="nav-item"><Link to="/SignupPage">Register</Link></li> */}
         
       </ul>
